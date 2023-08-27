@@ -117,7 +117,7 @@ class dept {
 
 }
 
-public class test {
+public class Department extends dept {
     public static void main(String[] args) {
         dept d1 = new dept();
         boolean trial = true;
